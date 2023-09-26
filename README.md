@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/oshanma/Codepath-assignment-2/assets/134091025/d78dd3e6-5d55-42e0-af8e-7e9a9e9b0da7' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://submissions.us-east-1.linodeobjects.com/and101/UW2PSYJi.gif' title='Video Demo' width='' alt='Video Demo' />
 
 
 GIF created with Kap
