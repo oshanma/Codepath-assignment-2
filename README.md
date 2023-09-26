@@ -28,6 +28,7 @@ The following STRETCH features are implemented:
 
 - [x] TODO
 
+
 The following EXTRA features are implemented:
 
 - [x] List anything else that you added to improve the app!
@@ -37,7 +38,7 @@ The following EXTRA features are implemented:
 Here's a video / GIF that demos all of the app's implemented features:
 
 
-<img src='https://imgur.com/Bo1VF2e.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/oshanma/Codepath-assignment-2/assets/134091025/41e7fd64-96a9-4c9f-9932-e9609c932005' title='Video Demo' width='' alt='Video Demo' />
 
 
 GIF created with Kap
