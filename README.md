@@ -36,7 +36,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src=' https://submissions.us-east-1.linodeobjects.com/and101/UW2PSYJi.gif ' title='Video Demo' width='' alt='Video Demo' />
+
+<img src=' https://imgur.com/Bo1VF2e' title='Video Demo' width='' alt='Video Demo' />
 
 
 GIF created with Kap
